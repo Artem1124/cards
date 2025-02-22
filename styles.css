@@ -1,0 +1,240 @@
+
+.fon {
+    display: flex;
+    width: 1440px;
+    justify-content: center;
+    height: 4133px;
+    background-color: #F3EFEC;
+   
+}
+.fon__title {
+    display: flex;
+    position: absolute;
+    
+    justify-content: center;
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 108px;
+    width: 1296px;
+    height: 108px;
+    color: #312A4E;
+}
+.fon__VЁRSTKA {
+    display: flex;
+    align-items: center;
+    margin-top: 250px;
+    border-top-style: solid;
+    border-top: color #312A4E;
+    border-bottom-style: solid;
+    border-bottom: color #312A4E;
+    font-size: 25px;
+    font-weight: 800;
+    color: #312A4E;
+    width: 1440px;
+    height: 71px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -3700px;
+    width: 1440px;
+    height: 70px;
+
+}
+.title2 {
+    display: flex;
+    text-align: center;
+    width: 1297px;
+    height: 27px;
+    justify-content: center;
+    
+}
+.maintext {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 1300px;
+    height: 550px;
+    
+}
+.pic__img {
+    width: 1440px;
+    height:849px;
+    margin-top: 500px;
+    margin-left:-1400px;
+}
+.pic__underpic{
+    width: 1440px;
+    height: 61px;
+    display: flex;
+    color: #312A4E;
+    font-weight: 400;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom:1px #312A4E;
+   
+    
+    
+  
+
+}
+.maintext__pic {
+    display: flex;
+    width: 1440px;
+    margin-bottom: -1200px;
+    margin-left: -100px;
+    flex-direction: column;
+    color: #312A4E;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    border-bottom-style: solid;
+}
+.maintext__afterpic {
+    width: 1295px;
+    height: 134px;
+    display: flex;
+    text-align: left;
+    font-weight: 400;
+    font-size: 25px;
+    color: #312A4E;
+    margin-top: 1500px;
+    margin-left: -1450px;
+    
+
+}
+.maintext__title3 {
+    display: flex;
+    width:1296px ;
+    height: 27px;
+    font-weight: 600;
+    color: #312A4E;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-top:1850px;
+    margin-left: -1450px;
+
+}
+.title3__start {
+    width: 1296px;
+    height:35px ;
+    color: #312A4E;
+    display: flex;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 1950px;
+    margin-left: -1390px;
+    align-items: baseline;
+}
+.start__after {
+    display: flex;
+    width: 972px ;
+    height: 144px;
+    text-align: left;
+    font-size: 25px;
+    color: #312A4E;
+    margin-top: 2050px;
+    margin-left: -1290px;
+    
+}
+.start__text {
+    width: 1296px;
+    height: 91px;
+    color: #312A4E;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    margin-top: 2250px;
+    margin-left: -1450px;
+}
+.maintext__idea{
+    display: flex;
+    width: 1294px;
+    height: 972px;
+    margin-top:2500px;
+    margin-left: -1425px;
+    border: #312A4E;
+    border-style: solid;
+    flex-direction: column;
+
+    
+}
+.idea__kvad {
+
+    width: 1294px;
+    height: 972px;
+    font-size: 65px;
+    color: #312A4E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.idea__under {
+    display: flex;
+    font-size: 25px;
+    color: #312A4E;
+    width: 1271px;
+    height: 21px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    bottom: 420px;
+    
+}
+
+
+.end__title4 {
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    color: #312A4E;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;  
+    flex-wrap: wrap;
+    top: 3050px;
+    background-color: #F3EFEC;
+    width: 1440px;
+    height: 700px;
+}
+.title4__users {
+    width: 1296px;
+    height: 14px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    color: #312A4E;
+    position: relative;
+    bottom: 250px;
+    
+}
+.users__element{
+    color: #FFAB6B;
+    display: flex;
+    justify-content: flex-end;
+    margin-top:15px;
+    width: 1px;
+    height: 1px;
+}
+.verstend {
+    display: flex;
+    width: 1440px;
+    height: 93px;
+    position: relative;
+    top: 2900px;
+    color: #312A4E;
+    font-size: 25px;
+    font-weight: 800;
+    justify-content: center;
+    align-items: center;
+    border-top-style: solid;
+    border-top:color #312A4E;
+    
+}
